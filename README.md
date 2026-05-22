@@ -1,16 +1,21 @@
-## Hi there 👋
+# Arthur Cruz
 
-<!--
-**ArthurCruzz17/ArthurCruzz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciências da Computação (USJT), em busca de estágio em TI.
+Foco em desenvolvimento Front-End com JavaScript e React.
 
-Here are some ideas to get you started:
+📍 São Bernardo do Campo, SP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projetos
+
+- **[Real Football](https://github.com/ArthurCruzz17/real_football)** — jogo 2D com JavaScript (Canvas)
+- **[TDAH Aware](https://github.com/ArthurCruzz17/TDAH_Aware)** — projeto acadêmico com Python e ML (Streamlit) 
+- **[Agendador de Horários](https://github.com/ArthurCruzz17/agendador-horarios)** — projeto acadêmico: API REST com Java e Spring Boot
+- **[Escape Room VR](https://github.com/ArthurCruzz17/escape-room-VR)** — jogo em Unity (C#) 
+
+---
+
+## Contato
+
+[LinkedIn](https://linkedin.com/in/arthurcruzz) · arthurcruz090@gmail.com
