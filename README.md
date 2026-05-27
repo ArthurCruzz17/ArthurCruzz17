@@ -1,7 +1,6 @@
 # Arthur Cruz
 
-Estudante de Ciências da Computação (USJT), em busca de estágio em TI.
-Foco em desenvolvimento Front-End com JavaScript e React.
+Estudante de Ciências da Computação (USJT), com foco em desenvolvimento Front-End com JavaScript e React.
 
 📍 São Bernardo do Campo, SP
 
